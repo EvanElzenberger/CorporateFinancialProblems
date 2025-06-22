@@ -15,8 +15,6 @@ By the end of the course, students will be able to:
 - Estimate the weighted average cost of capital (WACC).
 - Conduct lease-versus-buy analysis with discounted cash flow techniques.
 
----
-
 ## 🛠 Tools and Techniques Used:
 
 - Microsoft Excel (Solver, Financial Functions)
@@ -25,3 +23,5 @@ By the end of the course, students will be able to:
 - Risk/Return Metrics
 - Free Cash Flow Valuation
 - Lease/Buy Decision Frameworks
+
+## Final Exam Grade: 92%
